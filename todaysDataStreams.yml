@@ -1,0 +1,184 @@
+
+waverider26m:
+  name: waves waverider-26m
+  url: oceanography/waves/waverider-26m/waverider-26m.ncml
+
+waverider17m:
+  name: waves waverider-17m
+  url: oceanography/waves/waverider-17m/waverider-17m.ncml
+
+awac-11m:
+  name: waves awac-11m
+  url: oceanography/waves/awac-11m/awac-11m.ncml
+
+8m-array:
+  name: waves 8m array
+  url: oceanography/waves/8m-array/8m-array.ncml
+
+awac-6m:
+  name: waves awac-6m
+  url: oceanography/waves/awac-6m/awac-6m.ncml
+
+awac-4.5m:
+  name: waves awac-4.5m
+  url: oceanography/waves/awac-4.5m/awac-4.5m.ncml
+
+sig769-300:
+  name: waves sig769-300
+  url: oceanography/waves/sig769-300/sig769-300.ncml
+
+sig940-300:
+  name: waves sig940-300
+  url: oceanography/waves/sig940-300/sig940-300.ncml.html
+
+adop-3.5m:
+  name: waves adop-3.5m
+  url: oceanography/waves/adop-3.5m/adop-3.5m.ncml
+
+xp250m:
+  name: waves xp250m
+  url: oceanography/waves/xp250m/xp250m.ncml
+
+xp200m:
+  name: waves xp200m
+  url: oceanography/waves/xp200m/xp200m.ncml
+
+xp150m:
+  name: waves xp150m
+  url: oceanography/waves/xp150m/xp150m.ncml
+
+xp125m:
+  name: waves xp125m
+  url: oceanography/waves/xp125m/xp125m.ncml
+
+lidar wave 140:
+  name: waves lidar 140m
+  url: oceanography/waves/lidarWaveGauge140/lidarWaveGauge140.ncml
+
+lidar wave 110:
+  name: waves lidar 110m
+  url: oceanography/waves/lidarWaveGauge110/lidarWaveGauge110.ncml
+
+lidar wave 100:
+  name: waves lidar 100m
+  url: oceanography/waves/lidarWaveGauge100/lidarWaveGauge100.ncml
+
+lidar wave 090:
+  name: waves lidar 90m
+  url: oceanography/waves/lidarWaveGauge090/lidarWaveGauge090.ncml
+
+lidar wave 080:
+  name: waves lidar 80m
+  url: oceanography/waves/lidarWaveGauge080/lidarWaveGauge080.ncml
+
+lidar wave hydro:
+  name: waves lidar hydro
+  url: oceanography/waves/lidarHydrodynamics/lidarHydrodynamics.ncml
+
+lidar wave runup:
+  name: waves lidar Runup
+  url: oceanography/waves/lidarWaveRunup/lidarWaveRunup.ncml
+
+currents11m:
+  name: currents awac-11m
+  url: oceanography/currents/awac-11m/awac-11m.ncml
+
+currents6m:
+  name: currents awac-6m
+  url: oceanography/currents/awac-6m/awac-6m.ncml
+
+currents4.5m:
+  name: currents awac-4.5m
+  url: oceanography/currents/awac-4.5m/awac-4.5m.ncml
+
+currentssig940-300:
+  name: currents sig940-300
+  url: oceanography/currents/sig940-300/sig940-300.ncml.html
+
+adop3.5m:
+  name: currents adop-3.5m
+  url: oceanography/currents/adop-3.5m/adop-3.5m.ncml
+
+winds:
+  name: derived Winds
+  url: meteorology/wind/derived/derived.ncml
+
+WL:
+  name: WL
+  url: oceanography/waterlevel/eopNoaaTide/eopNoaaTide.ncml
+
+altimeter940-340:
+  name: alt 940-340
+  url: geomorphology/altimeter/Alt940-340-altimeter/Alt940-340-altimeter.ncml
+
+altimeter940-250:
+  name: alt 940-250
+  url: geomorphology/altimeter/Alt940-250-altimeter/Alt940-250-altimeter.ncml
+
+altimeter940-200:
+  name: alt 940-200
+  url: geomorphology/altimeter/Alt940-200-altimeter/Alt940-200-altimeter.ncml
+
+altimeter861-350:
+  name: alt 861-350
+  url: geomorphology/altimeter/Alt861-350-altimeter/Alt861-350-altimeter.ncml
+
+altimeter861-300:
+  name: alt 861-300
+  url: geomorphology/altimeter/Alt861-300-altimeter/Alt861-300-altimeter.ncml
+
+altimeter861-250:
+  name: alt 861-250
+  url: geomorphology/altimeter/Alt861-250-altimeter/Alt861-250-altimeter.ncml
+
+altimeter861-200:
+  name: alt 861-200
+  url: geomorphology/altimeter/Alt861-200-altimeter/Alt861-200-altimeter.ncml
+
+altimeter861-150:
+  name: alt 861-150
+  url: geomorphology/altimeter/Alt861-150-altimeter/Alt861-150-altimeter.ncml
+
+altimeter769-350:
+  name: alt 769-350
+  url: geomorphology/altimeter/Alt769-350-altimeter/Alt769-350-altimeter.ncml
+
+altimeter769-300:
+  name: alt 769-300
+  url: geomorphology/altimeter/Alt769-300-altimeter/Alt769-300-altimeter.ncml
+
+altimeter769-250:
+  name: alt 769-250
+  url: geomorphology/altimeter/Alt769-250-altimeter/Alt769-250-altimeter.ncml
+
+altimeter769-200:
+  name: alt 769-200
+  url: geomorphology/altimeter/Alt769-200-altimeter/Alt769-200-altimeter.ncml
+
+altimeter769-150:
+  name: alt 769-150
+  url: geomorphology/altimeter/Alt769-150-altimeter/Alt769-150-altimeter.ncml
+
+########### model data
+STWAVE-HP:
+  name: stwave-Spatial-HP
+  url: waveModels/STWAVE/HP/Local-Field/Local-Field.ncml
+
+STWAVE-FP:
+  name: stwave-Spatial-FP
+  url: waveModels/STWAVE/FP/Local-Field/Local-Field.ncml
+
+CMS-wave:
+  name: CMS-wave-spatial-HP
+  url: waveModels/CMS/HP/Field/Field.ncml
+
+CSHORE-morph:
+  name: CSHORE-morph-mobileReset
+  url: morphModels/CSHORE/MOBILE_RESET/MOBILE_RESET.ncml
+
+### survey needs to be last, bounds for this plot are taken from an incremented value with each loop
+survey:
+  name: survey
+  url: geomorphology/elevationTransects/survey/surveyTransects.ncml
+
+
